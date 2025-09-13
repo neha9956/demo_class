@@ -1,2 +1,2 @@
 # demo_class
-this is new class  demo ?
+this is new class  demo today ?
